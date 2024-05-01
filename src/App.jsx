@@ -1,4 +1,4 @@
-import { Hero, Footer, PopularProducts, Services, SpecialOffer, Subscribe, SuperQuality} from './sections/index.js';
+import { Hero, Footer, PopularProducts, Services, SpecialOffer, Subscribe, SuperQuality, CustomerReviews} from './sections/index.js';
 import Nav from './components/Nav.jsx';
 
 const App = ()=>{
